@@ -1,0 +1,2789 @@
+{
+  "joblist": [
+    {
+      "id": 1,
+      "status": "Active",
+      "recruiter_name": "Codi Coates",
+      "recruiter_position": "Business Development",
+      "skills": "React JS, MySQL and JAVA",
+      "designation": "Full Stack Developer",
+      "company": "Skipfire",
+      "jobposted": "01-03-2020",
+      "experience": "1-4",
+      "salary": 5.7,
+      "mail_ID": "ccoates0@cbslocal.com",
+      "location": "Bangalore",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a full stack developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "envisioneer e-business niches",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 2,
+      "status": "Inactive",
+      "recruiter_name": "Tymothy Gladwell",
+      "recruiter_position": "Research and Development",
+      "skills": "Embedded C, Advanced CPP and Linux",
+      "designation": "Embedded System",
+      "company": "Twitterwire",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a embedded developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "jobposted": "20-01-2020",
+      "experience": "1-4",
+      "salary": 5.2,
+      "mail_ID": "tgladwell1@ow.ly",
+      "location": "Chennai",
+      "description": "orchestrate killer action-items",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 3,
+      "status": "Recently Added",
+      "recruiter_name": "Ilise Sentance",
+      "recruiter_position": "Accounting",
+      "skills": "Python, AI and ML",
+      "designation": "Data Science",
+      "company": "Yamia",
+      "jobposted": "09-05-2020",
+      "experience": "1-4",
+      "salary": 5.5,
+      "mail_ID": "isentance2@google.pl",
+      "location": "Delhi",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a data scientist",
+        "p3": "-Writing Efficient code",
+        "p4": "Understanding the data problems and give a solutions using algorithms",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "disintermediate intuitive infomediaries",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 4,
+      "status": "Active",
+      "recruiter_name": "Donnell Benez",
+      "recruiter_position": "Engineering",
+      "skills": "Swift, CPP and Java",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a android developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "designation": "Android Development",
+      "company": "Topicshots",
+      "jobposted": "09-11-2019",
+      "experience": "1-4",
+      "salary": 3.6,
+      "mail_ID": "dbenez3@nsw.gov.au",
+      "location": "Kerala",
+      "description": "envisioneer bricks-and-clicks networks",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 5,
+      "status": "Inactive",
+      "recruiter_name": "Audry Vell",
+      "recruiter_position": "Research and Development",
+      "skills": "RDBMS, MySQL, and J2EE",
+      "designation": "Database Management",
+      "company": "Trilith",
+      "jobposted": "05-06-2020",
+      "experience": "1-4",
+      "salary": 10.9,
+      "mail_ID": "avell4@who.int",
+      "location": "Mumbai",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a database developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "iterate end-to-end bandwidth",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 6,
+      "status": "Recently Added",
+      "recruiter_name": "Nikos Snowdon",
+      "recruiter_position": "Accounting",
+      "skills": "Matlab, Python and Ruby",
+      "designation": "Data Analyst",
+      "company": "BlogXS",
+      "jobposted": "11-08-2020",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a data analyst",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "salary": 6.9,
+      "experience": "1-4",
+      "mail_ID": "nsnowdon5@angelfire.com",
+      "location": "Bangalore",
+      "description": "engineer plug-and-play networks",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 7,
+      "status": "Active",
+      "recruiter_name": "Issiah Dahler",
+      "recruiter_position": "Marketing",
+      "skills": "Linux, Network and Tropoloies",
+      "designation": "Desktop Engineer",
+      "company": "Brainbox",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a desktop administrator",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "jobposted": "28-05-2020",
+      "experience": "1-4",
+      "salary": 5.1,
+      "mail_ID": "idahler6@naver.com",
+      "location": "Chennai",
+      "description": "recontextualize innovative communities",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 8,
+      "status": "Inactive",
+      "recruiter_name": "Wernher Frape",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a network admin",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "recruiter_position": "Sales",
+      "skills": "AWS, Web-App and Portals",
+      "designation": "Network Admin",
+      "company": "Agivu",
+      "jobposted": "06-07-2020",
+      "salary": 2.8,
+      "experience": "1-4",
+      "mail_ID": "wfrape7@goo.ne.jp",
+      "location": "Delhi",
+      "description": "monetize 24/365 schemas",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 9,
+      "status": "Recently Added",
+      "recruiter_name": "Alys Cullingford",
+      "recruiter_position": "Human Resources",
+      "skills": "MySQL, JAVA and PHP",
+      "designation": "Backend Development",
+      "company": "Babbleopia",
+      "experience": "1-4",
+      "jobposted": "04-02-2020",
+      "salary": 9.8,
+      "mail_ID": "acullingford8@hubpages.com",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a backend developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "location": "Kerala",
+      "description": "disintermediate dynamic content",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 10,
+      "status": "Active",
+      "recruiter_name": "Vyky Dimond",
+      "recruiter_position": "Product Management",
+      "skills": "HTML, CSS and JS",
+      "designation": "Frontend Development",
+      "company": "Skyndu",
+      "jobposted": "06-02-2020",
+      "experience": "1-4",
+      "salary": 10.9,
+      "mail_ID": "vdimond9@tinyurl.com",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a frontend developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "location": "Mumbai",
+      "description": "reinvent bleeding-edge infomediaries",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 11,
+      "status": "Inactive",
+      "recruiter_name": "Vito Salatino",
+      "recruiter_position": "Marketing",
+      "skills": "React JS, MySQL and JAVA",
+      "designation": "Full Stack Developer",
+      "company": "Reallinks",
+      "experience": "1-4",
+      "jobposted": "28-11-2019",
+      "salary": 10.1,
+      "mail_ID": "vsalatinoa@youtube.com",
+      "location": "Bangalore",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "cultivate wireless platforms",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 12,
+      "status": "Recently Added",
+      "recruiter_name": "Chris Lindell",
+      "recruiter_position": "Research and Development",
+      "skills": "Embedded C, Advanced CPP and Linux",
+      "designation": "Embedded System",
+      "company": "Wikivu",
+      "experience": "1-4",
+      "jobposted": "28-12-2019",
+      "salary": 9.2,
+      "mail_ID": "clindellb@mapy.cz",
+      "location": "Chennai",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a embedded developer",
+        "p3": "-Writing Efficient code",
+        "p4": "Designing and implementing software of embedded devices and systems",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "enable innovative platforms",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 13,
+      "status": "Active",
+      "recruiter_name": "Jules Paddington",
+      "recruiter_position": "Support",
+      "skills": "Python, AI and ML",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a data scientist",
+        "p3": "-Writing Efficient code",
+        "p4": "Understanding the data problems and give a solutions using algorithms",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "designation": "Data Science",
+      "company": "Ozu",
+      "jobposted": "30-03-2020",
+      "salary": 4.7,
+      "experience": "1-4",
+      "mail_ID": "jpaddingtonc@cyberchimps.com",
+      "location": "Delhi",
+      "description": "engineer enterprise ROI",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 14,
+      "status": "Inactive",
+      "recruiter_name": "Siobhan Holdron",
+      "recruiter_position": "Services",
+      "skills": "Swift, CPP and Java",
+      "designation": "Android Development",
+      "company": "Shufflester",
+      "jobposted": "01-10-2020",
+      "salary": 10.4,
+      "experience": "1-4",
+      "mail_ID": "sholdrond@odnoklassniki.ru",
+      "location": "Kerala",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a android developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "optimize value-added ROI",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 15,
+      "status": "Recently Added",
+      "recruiter_name": "Mei Stelle",
+      "recruiter_position": "Sales",
+      "skills": "RDBMS, MySQL, and J2EE",
+      "designation": "Database Management",
+      "company": "Youspan",
+      "jobposted": "19-10-2020",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "salary": 9.7,
+      "mail_ID": "mstellee@pen.io",
+      "experience": "1-4",
+      "location": "Mumbai",
+      "description": "utilize customized networks",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 16,
+      "status": "Active",
+      "recruiter_name": "Gamaliel Manna",
+      "recruiter_position": "Services",
+      "skills": "Matlab, Python and Ruby",
+      "designation": "Data Analyst",
+      "company": "Skyble",
+      "jobposted": "05-09-2020",
+      "salary": 6.6,
+      "mail_ID": "gmannaf@slashdot.org",
+      "experience": "1-4",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a data analyst",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "location": "Bangalore",
+      "description": "transform world-class users",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 17,
+      "status": "Inactive",
+      "recruiter_name": "Diahann Burwell",
+      "recruiter_position": "Research and Development",
+      "skills": "Linux, Network and Tropoloies",
+      "designation": "Desktop Engineer",
+      "company": "Mydeo",
+      "jobposted": "17-01-2020",
+      "salary": 6,
+      "experience": "1-4",
+      "mail_ID": "dburwellg@ucoz.ru",
+      "location": "Chennai",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a desktop support",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "enable sticky methodologies",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 18,
+      "status": "Recently Added",
+      "recruiter_name": "Vinny Armand",
+      "recruiter_position": "Marketing",
+      "skills": "AWS, Web-App and Portals",
+      "designation": "Network Admin",
+      "company": "Trunyx",
+      "jobposted": "21-04-2020",
+      "salary": 9.1,
+      "mail_ID": "varmandh@gov.uk",
+      "experience": "1-4",
+      "location": "Delhi",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a network admin",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "engineer frictionless content",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 19,
+      "status": "Active",
+      "recruiter_name": "Evie Heephy",
+      "recruiter_position": "Marketing",
+      "skills": "MySQL, JAVA and PHP",
+      "designation": "Backend Development",
+      "company": "Dabfeed",
+      "jobposted": "05-10-2020",
+      "salary": 9.5,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a backend developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "eheephyi@github.com",
+      "experience": "1-4",
+      "location": "Kerala",
+      "description": "facilitate open-source methodologies",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 20,
+      "status": "Inactive",
+      "recruiter_name": "Helaina Ubank",
+      "recruiter_position": "Human Resources",
+      "skills": "HTML, CSS and JS",
+      "designation": "Frontend Development",
+      "company": "Innotype",
+      "jobposted": "04-03-2020",
+      "salary": 9.4,
+      "mail_ID": "hubankj@goo.ne.jp",
+      "experience": "1-4",
+      "location": "Mumbai",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a frontend developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "monetize leading-edge synergies",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 21,
+      "status": "Recently Added",
+      "recruiter_name": "Rochell Priel",
+      "recruiter_position": "Services",
+      "skills": "React JS, MySQL and JAVA",
+      "designation": "Full Stack Developer",
+      "company": "Jamia",
+      "jobposted": "01-02-2020",
+      "salary": 3.6,
+      "mail_ID": "rprielk@fc2.com",
+      "experience": "1-4",
+      "location": "Bangalore",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "maximize web-enabled e-business",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 22,
+      "status": "Active",
+      "recruiter_name": "Vicki Brosio",
+      "recruiter_position": "Product Management",
+      "skills": "Embedded C, Advanced CPP and Linux",
+      "designation": "Embedded System",
+      "company": "Browsedrive",
+      "jobposted": "19-06-2020",
+      "salary": 10.5,
+      "mail_ID": "vbrosiol@pbs.org",
+      "experience": "1-4",
+      "location": "Chennai",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a embedded system",
+        "p3": "-Writing Efficient code",
+        "p4": "Designing and implementing software of embedded devices and systems",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "whiteboard end-to-end web-readiness",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 23,
+      "status": "Inactive",
+      "recruiter_name": "Normand Skirling",
+      "recruiter_position": "Business Development",
+      "skills": "Python, AI and ML",
+      "designation": "Data Science",
+      "company": "Layo",
+      "jobposted": "23-08-2020",
+      "salary": 8.7,
+      "mail_ID": "nskirlingm@sourceforge.net",
+      "location": "Delhi",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "Understanding the data problems and give a solutions using algorithms",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "experience": "1-4",
+      "description": "e-enable viral networks",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 24,
+      "status": "Recently Added",
+      "recruiter_name": "Pincus Peatman",
+      "recruiter_position": "Marketing",
+      "skills": "Swift, CPP and Java",
+      "designation": "Android Development",
+      "company": "Ntag",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "jobposted": "23-09-2020",
+      "salary": 5.6,
+      "mail_ID": "ppeatmann@phpbb.com",
+      "location": "Kerala",
+      "experience": "1-4",
+      "description": "synergize revolutionary supply-chains",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 25,
+      "status": "Active",
+      "recruiter_name": "Averill Tomney",
+      "recruiter_position": "Services",
+      "skills": "RDBMS, MySQL, and J2EE",
+      "designation": "Database Management",
+      "company": "Skyndu",
+      "jobposted": "12-04-2020",
+      "salary": 10.6,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "atomneyo@bloglovin.com",
+      "location": "Mumbai",
+      "description": "unleash customized infrastructures",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 26,
+      "status": "Inactive",
+      "recruiter_name": "Silva Grimditch",
+      "recruiter_position": "Accounting",
+      "skills": "Matlab, Python and Ruby",
+      "designation": "Data Analyst",
+      "company": "Jabberstorm",
+      "jobposted": "13-04-2020",
+      "salary": 10.7,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "sgrimditchp@myspace.com",
+      "location": "Bangalore",
+      "description": "harness front-end initiatives",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 27,
+      "status": "Recently Added",
+      "recruiter_name": "Kirsti Small",
+      "recruiter_position": "Research and Development",
+      "skills": "Linux, Network and Tropoloies",
+      "designation": "Desktop Engineer",
+      "company": "Dazzlesphere",
+      "jobposted": "18-02-2020",
+      "salary": 10,
+      "mail_ID": "ksmallq@wisc.edu",
+      "location": "Chennai",
+      "description": "repurpose transparent interfaces",
+      "experience": "1-4",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 28,
+      "status": "Active",
+      "recruiter_name": "Ortensia Tointon",
+      "recruiter_position": "Support",
+      "skills": "AWS, Web-App and Portals",
+      "designation": "Network Admin",
+      "company": "Twitterwire",
+      "jobposted": "15-01-2020",
+      "salary": 5.3,
+      "mail_ID": "otointonr@google.pl",
+      "location": "Delhi",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "revolutionize user-centric partnerships",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 29,
+      "status": "Inactive",
+      "recruiter_name": "Noelani Rozalski",
+      "recruiter_position": "Research and Development",
+      "skills": "MySQL, JAVA and PHP",
+      "designation": "Backend Development",
+      "company": "Realmix",
+      "jobposted": "08-09-2020",
+      "salary": 9.6,
+      "mail_ID": "nrozalskis@jugem.jp",
+      "location": "Kerala",
+      "description": "whiteboard one-to-one models",
+      "experience": "1-4",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 30,
+      "status": "Recently Added",
+      "recruiter_name": "Leola Brimner",
+      "recruiter_position": "Marketing",
+      "skills": "HTML, CSS and JS",
+      "designation": "Frontend Development",
+      "company": "Dynazzy",
+      "jobposted": "20-07-2020",
+      "salary": 6.3,
+      "mail_ID": "lbrimnert@cbsnews.com",
+      "location": "Mumbai",
+      "description": "whiteboard cutting-edge e-markets",
+      "experience": "1-4",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 31,
+      "status": "Active",
+      "recruiter_name": "Lyndy Crichley",
+      "recruiter_position": "Marketing",
+      "skills": "React JS, MySQL and JAVA",
+      "designation": "Full Stack Developer",
+      "company": "Wordtune",
+      "jobposted": "28-12-2019",
+      "salary": 10.4,
+      "mail_ID": "lcrichleyu@microsoft.com",
+      "location": "Bangalore",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "extend impactful infrastructures",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 32,
+      "status": "Inactive",
+      "recruiter_name": "Joelle Hexum",
+      "recruiter_position": "Research and Development",
+      "skills": "Embedded C, Advanced CPP and Linux",
+      "designation": "Embedded System",
+      "company": "Centidel",
+      "jobposted": "03-11-2019",
+      "salary": 3.3,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "Designing and implementing software of embedded devices and systems",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "jhexumv@uol.com.br",
+      "location": "Chennai",
+      "description": "benchmark cutting-edge web-readiness",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 33,
+      "status": "Recently Added",
+      "recruiter_name": "Dulcie Regglar",
+      "recruiter_position": "Support",
+      "skills": "Python, AI and ML",
+      "designation": "Data Science",
+      "company": "Cogidoo",
+      "jobposted": "13-12-2019",
+      "salary": 5.3,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "Understanding the data problems and give a solutions using algorithms",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "dregglarw@is.gd",
+      "location": "Delhi",
+      "description": "streamline sticky markets",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 34,
+      "status": "Active",
+      "recruiter_name": "Federica Papa",
+      "recruiter_position": "Human Resources",
+      "skills": "Swift, CPP and Java",
+      "designation": "Android Development",
+      "company": "Meevee",
+      "jobposted": "16-03-2020",
+      "salary": 6.6,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "fpapax@gmpg.org",
+      "location": "Kerala",
+      "description": "maximize one-to-one architectures",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 35,
+      "status": "Inactive",
+      "recruiter_name": "Ulric Casa",
+      "recruiter_position": "Support",
+      "skills": "RDBMS, MySQL, and J2EE",
+      "designation": "Database Management",
+      "company": "Quinu",
+      "jobposted": "07-07-2020",
+      "salary": 3.6,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "ucasay@va.gov",
+      "location": "Mumbai",
+      "description": "maximize compelling methodologies",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 36,
+      "status": "Recently Added",
+      "recruiter_name": "Joannes Bompas",
+      "recruiter_position": "Support",
+      "skills": "Matlab, Python and Ruby",
+      "designation": "Data Analyst",
+      "company": "Avamba",
+      "jobposted": "14-10-2020",
+      "salary": 3.3,
+      "mail_ID": "jbompasz@mlb.com",
+      "location": "Bangalore",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "maximize revolutionary models",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 37,
+      "status": "Active",
+      "recruiter_name": "Bliss Marjanski",
+      "recruiter_position": "Support",
+      "skills": "Linux, Network and Tropoloies",
+      "designation": "Desktop Engineer",
+      "company": "Jabberstorm",
+      "jobposted": "09-12-2019",
+      "salary": 4.3,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "bmarjanski10@businessinsider.com",
+      "location": "Chennai",
+      "description": "repurpose leading-edge channels",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 38,
+      "status": "Inactive",
+      "recruiter_name": "Josy Gorthy",
+      "recruiter_position": "Accounting",
+      "skills": "AWS, Web-App and Portals",
+      "designation": "Network Admin",
+      "company": "Yozio",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "jobposted": "22-11-2019",
+      "salary": 4.3,
+      "mail_ID": "jgorthy11@gmpg.org",
+      "location": "Delhi",
+      "description": "innovate sticky e-services",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 39,
+      "status": "Recently Added",
+      "recruiter_name": "Farlay Withringten",
+      "recruiter_position": "Sales",
+      "skills": "MySQL, JAVA and PHP",
+      "designation": "Backend Development",
+      "company": "Vidoo",
+      "jobposted": "27-04-2020",
+      "salary": 10,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "fwithringten12@icq.com",
+      "location": "Kerala",
+      "description": "cultivate cross-media methodologies",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 40,
+      "status": "Active",
+      "recruiter_name": "Delora Clapham",
+      "recruiter_position": "Training",
+      "skills": "HTML, CSS and JS",
+      "designation": "Frontend Development",
+      "company": "Jabberbean",
+      "jobposted": "21-07-2020",
+      "salary": 7.4,
+      "mail_ID": "dclapham13@ustream.tv",
+      "location": "Mumbai",
+      "description": "leverage turn-key partnerships",
+      "experience": "1-4",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 41,
+      "status": "Inactive",
+      "recruiter_name": "Judie Seif",
+      "recruiter_position": "Training",
+      "skills": "React JS, MySQL and JAVA",
+      "designation": "Full Stack Developer",
+      "company": "Jabbertype",
+      "jobposted": "27-09-2020",
+      "salary": 11.8,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a junior web developer:",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "jseif14@a8.net",
+      "location": "Bangalore",
+      "description": "synthesize world-class bandwidth",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 42,
+      "status": "Recently Added",
+      "recruiter_name": "Gerome Leiden",
+      "recruiter_position": "Legal",
+      "skills": "Embedded C, Advanced CPP and Linux",
+      "designation": "Embedded System",
+      "company": "Edgewire",
+      "jobposted": "26-09-2020",
+      "salary": 6,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a embedded developer",
+        "p3": "-Writing Efficient code",
+        "p4": "Designing and implementing software of embedded devices and systems",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "gleiden15@timesonline.co.uk",
+      "location": "Chennai",
+      "description": "grow scalable infomediaries",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 43,
+      "status": "Active",
+      "recruiter_name": "Tamarra Barta",
+      "recruiter_position": "Research and Development",
+      "skills": "Python, AI and ML",
+      "designation": "Data Science",
+      "company": "Youspan",
+      "jobposted": "21-12-2019",
+      "salary": 11.4,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a data scientist",
+        "p3": "-Writing Efficient code",
+        "p4": "Understanding the data problems and give a solutions using algorithms",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "tbarta16@abc.net.au",
+      "location": "Delhi",
+      "description": "recontextualize ubiquitous solutions",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 44,
+      "status": "Inactive",
+      "recruiter_name": "Cleopatra Duling",
+      "recruiter_position": "Accounting",
+      "skills": "Swift, CPP and Java",
+      "designation": "Android Development",
+      "company": "Thoughtworks",
+      "jobposted": "16-10-2020",
+      "salary": 3.2,
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a android developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "mail_ID": "cduling17@blogspot.com",
+      "location": "Kerala",
+      "description": "redefine strategic technologies",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 45,
+      "status": "Recently Added",
+      "recruiter_name": "Jerome Patrick",
+      "recruiter_position": "Sales",
+      "skills": "RDBMS, MySQL, and J2EE",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a database developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "designation": "Database Management",
+      "company": "Snaptags",
+      "jobposted": "22-01-2020",
+      "salary": 9.2,
+      "mail_ID": "jpatrick18@oracle.com",
+      "location": "Mumbai",
+      "description": "streamline cutting-edge vortals",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 46,
+      "status": "Active",
+      "recruiter_name": "Devonna Boycott",
+      "recruiter_position": "Marketing",
+      "skills": "Matlab, Python and Ruby",
+      "designation": "Data Analyst",
+      "company": "Quatz",
+      "jobposted": "16-07-2020",
+      "salary": 4.8,
+      "mail_ID": "dboycott19@ifeng.com",
+      "location": "Bangalore",
+      "description": "facilitate front-end partnerships",
+      "experience": "1-4",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a data analyst",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 47,
+      "status": "Inactive",
+      "recruiter_name": "Valerie Barens",
+      "recruiter_position": "Support",
+      "skills": "Linux, Network and Tropoloies",
+      "designation": "Desktop Engineer",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a desktop support",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "company": "Aimbo",
+      "jobposted": "09-02-2020",
+      "salary": 5.9,
+      "mail_ID": "vbarens1a@furl.net",
+      "location": "Chennai",
+      "description": "implement customized markets",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 48,
+      "status": "Recently Added",
+      "recruiter_name": "Nan Lipman",
+      "recruiter_position": "Research and Development",
+      "skills": "AWS, Web-App and Portals",
+      "designation": "Network Admin",
+      "company": "Jayo",
+      "jobposted": "23-08-2020",
+      "salary": 6.1,
+      "mail_ID": "nlipman1b@wunderground.com",
+      "location": "Delhi",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a network admin",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "description": "monetize bleeding-edge architectures",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 49,
+      "status": "Active",
+      "recruiter_name": "Raynor Phear",
+      "recruiter_position": "Product Management",
+      "skills": "MySQL, JAVA and PHP",
+      "designation": "Backend Development",
+      "company": "Kamba",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a backend developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "jobposted": "27-07-2020",
+      "salary": 3.3,
+      "mail_ID": "rphear1c@rambler.ru",
+      "location": "Kerala",
+      "description": "streamline dynamic schemas",
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    },
+    {
+      "id": 50,
+      "status": "Inactive",
+      "recruiter_name": "Bobbie Monkman",
+      "recruiter_position": "Engineering",
+      "skills": "HTML, CSS and JS",
+      "designation": "Frontend Development",
+      "company": "Flipbug",
+      "jobposted": "16-Dec-2019",
+      "salary": 6.4,
+      "mail_ID": "bmonkman1d@paypal.com",
+      "location": "Mumbai",
+      "description": "benchmark frictionless paradigms",
+      "proposal": {
+        "p1": "Working as a Junior web developer your day responsibilities are making/creating a unique and interesting web page design using the computer programming skills.",
+        "p2": "The following are the tasks of a frontend developer",
+        "p3": "-Writing Efficient code",
+        "p4": "-Creating websites using Frameworks with backend technologies.",
+        "p5": "-Maintaining and expanding the website once built",
+        "p6": "-Managing team and interact with colleagues"
+      },
+      "experience": "1-4",
+      "notice_period": "Immediately"
+    }
+  ],
+  "full_stack_developer": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "React JS": "3Y 2M",
+        "MySQL": "3Y 2M",
+        "JAVA": "3Y 2M"
+      },
+      "Results": {
+        "React JS": "7/10",
+        "MySQL": "9/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "React JS": "1Y 2M",
+        "MySQL": "1Y 2M",
+        "JAVA": "1Y 2M"
+      },
+      "Results": {
+        "React JS": "8/10",
+        "MySQL": "8/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "React JS": "0Y 6M",
+        "MySQL": "0Y 6M",
+        "JAVA": "0Y 6M"
+      },
+      "Results": {
+        "React JS": "7/10",
+        "MySQL": "7/10",
+        "JAVA": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "React JS": "2Y 6M",
+        "MySQL": "2Y 6M",
+        "JAVA": "2Y 6M"
+      },
+      "Results": {
+        "React JS": "10/10",
+        "MySQL": "6/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "React JS": "1Y 0M",
+        "MySQL": "1Y 0M",
+        "JAVA": "1Y 0M"
+      },
+      "Results": {
+        "React JS": "8/10",
+        "MySQL": "7/10",
+        "JAVA": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "React JS": "5Y 1M",
+        "MySQL": "5Y 1M",
+        "JAVA": "5Y 1M"
+      },
+      "Results": {
+        "React JS": "7/10",
+        "MySQL": "8/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "React JS": "2Y 4M",
+        "MySQL": "2Y 4M",
+        "JAVA": "2Y 4M"
+      },
+      "Results": {
+        "React JS": "9/10",
+        "MySQL": "8/10",
+        "JAVA": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "React JS": "0Y 8M",
+        "MySQL": "0Y 8M",
+        "JAVA": "0Y 8M"
+      },
+      "Results": {
+        "React JS": "7/10",
+        "MySQL": "10/10",
+        "JAVA": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "React JS": "4Y 4M",
+        "MySQL": "4Y 4M",
+        "JAVA": "4Y 4M"
+      },
+      "Results": {
+        "React JS": "9/10",
+        "MySQL": "10/10",
+        "JAVA": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "React JS": "3Y 3M",
+        "MySQL": "3Y 3M",
+        "JAVA": "3Y 3M"
+      },
+      "Results": {
+        "React JS": "7/10",
+        "MySQL": "10/10",
+        "JAVA": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "android_developer": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "Swift": "3Y 2M",
+        "CPP": "3Y 2M",
+        "JAVA": "3Y 2M"
+      },
+      "Results": {
+        "Swift": "7/10",
+        "CPP": "9/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "Swift": "1Y 2M",
+        "CPP": "1Y 2M",
+        "JAVA": "1Y 2M"
+      },
+      "Results": {
+        "Swift": "8/10",
+        "CPP": "8/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "Swift": "0Y 6M",
+        "CPP": "0Y 6M",
+        "JAVA": "0Y 6M"
+      },
+      "Results": {
+        "Swift": "7/10",
+        "CPP": "7/10",
+        "JAVA": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "Swift": "2Y 6M",
+        "CPP": "2Y 6M",
+        "JAVA": "2Y 6M"
+      },
+      "Results": {
+        "Swift": "10/10",
+        "CPP": "6/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "Swift": "1Y 0M",
+        "CPP": "1Y 0M",
+        "JAVA": "1Y 0M"
+      },
+      "Results": {
+        "Swift": "8/10",
+        "CPP": "7/10",
+        "JAVA": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "Swift": "5Y 1M",
+        "CPP": "5Y 1M",
+        "JAVA": "5Y 1M"
+      },
+      "Results": {
+        "Swift": "7/10",
+        "CPP": "8/10",
+        "JAVA": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "Swift": "2Y 4M",
+        "CPP": "2Y 4M",
+        "JAVA": "2Y 4M"
+      },
+      "Results": {
+        "Swift": "9/10",
+        "CPP": "8/10",
+        "JAVA": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "Swift": "0Y 8M",
+        "CPP": "0Y 8M",
+        "JAVA": "0Y 8M"
+      },
+      "Results": {
+        "Swift": "7/10",
+        "CPP": "10/10",
+        "JAVA": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "Swift": "4Y 4M",
+        "CPP": "4Y 4M",
+        "JAVA": "4Y 4M"
+      },
+      "Results": {
+        "Swift": "9/10",
+        "CPP": "10/10",
+        "JAVA": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "Swift": "3Y 3M",
+        "CPP": "3Y 3M",
+        "JAVA": "3Y 3M"
+      },
+      "Results": {
+        "Swift": "7/10",
+        "CPP": "10/10",
+        "JAVA": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "database": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "RDBMS": "3Y 2M",
+        "MySQL": "3Y 2M",
+        "J2EE": "3Y 2M"
+      },
+      "Results": {
+        "RDBMS": "7/10",
+        "MySQL": "9/10",
+        "J2EE": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "RDBMS": "1Y 2M",
+        "MySQL": "1Y 2M",
+        "J2EE": "1Y 2M"
+      },
+      "Results": {
+        "RDBMS": "8/10",
+        "MySQL": "8/10",
+        "J2EE": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "RDBMS": "0Y 6M",
+        "MySQL": "0Y 6M",
+        "J2EE": "0Y 6M"
+      },
+      "Results": {
+        "RDBMS": "7/10",
+        "MySQL": "7/10",
+        "J2EE": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "RDBMS": "2Y 6M",
+        "MySQL": "2Y 6M",
+        "J2EE": "2Y 6M"
+      },
+      "Results": {
+        "RDBMS": "10/10",
+        "MySQL": "6/10",
+        "J2EE": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "RDBMS": "1Y 0M",
+        "MySQL": "1Y 0M",
+        "J2EE": "1Y 0M"
+      },
+      "Results": {
+        "RDBMS": "8/10",
+        "MySQL": "7/10",
+        "J2EE": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "RDBMS": "5Y 1M",
+        "MySQL": "5Y 1M",
+        "J2EE": "5Y 1M"
+      },
+      "Results": {
+        "RDBMS": "7/10",
+        "MySQL": "8/10",
+        "J2EE": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "RDBMS": "2Y 4M",
+        "MySQL": "2Y 4M",
+        "J2EE": "2Y 4M"
+      },
+      "Results": {
+        "RDBMS": "9/10",
+        "MySQL": "8/10",
+        "J2EE": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "RDBMS": "0Y 8M",
+        "MySQL": "0Y 8M",
+        "J2EE": "0Y 8M"
+      },
+      "Results": {
+        "RDBMS": "7/10",
+        "MySQL": "10/10",
+        "J2EE": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "RDBMS": "4Y 4M",
+        "MySQL": "4Y 4M",
+        "J2EE": "4Y 4M"
+      },
+      "Results": {
+        "RDBMS": "9/10",
+        "MySQL": "10/10",
+        "J2EE": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "RDBMS": "3Y 3M",
+        "MySQL": "3Y 3M",
+        "J2EE": "3Y 3M"
+      },
+      "Results": {
+        "RDBMS": "7/10",
+        "MySQL": "10/10",
+        "J2EE": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "data_analyst": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "Matlab": "3Y 2M",
+        "Python": "3Y 2M",
+        "Ruby": "3Y 2M"
+      },
+      "Results": {
+        "Matlab": "7/10",
+        "Python": "9/10",
+        "Ruby": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "Matlab": "1Y 2M",
+        "Python": "1Y 2M",
+        "Ruby": "1Y 2M"
+      },
+      "Results": {
+        "Matlab": "8/10",
+        "Python": "8/10",
+        "Ruby": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "Matlab": "0Y 6M",
+        "Python": "0Y 6M",
+        "Ruby": "0Y 6M"
+      },
+      "Results": {
+        "Matlab": "7/10",
+        "Python": "7/10",
+        "Ruby": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "Matlab": "2Y 6M",
+        "Python": "2Y 6M",
+        "Ruby": "2Y 6M"
+      },
+      "Results": {
+        "Matlab": "10/10",
+        "Python": "6/10",
+        "Ruby": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "Matlab": "1Y 0M",
+        "Python": "1Y 0M",
+        "Ruby": "1Y 0M"
+      },
+      "Results": {
+        "Matlab": "8/10",
+        "Python": "7/10",
+        "Ruby": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "Matlab": "5Y 1M",
+        "Python": "5Y 1M",
+        "Ruby": "5Y 1M"
+      },
+      "Results": {
+        "Matlab": "7/10",
+        "Python": "8/10",
+        "Ruby": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "Matlab": "2Y 4M",
+        "Python": "2Y 4M",
+        "Ruby": "2Y 4M"
+      },
+      "Results": {
+        "Matlab": "9/10",
+        "Python": "8/10",
+        "Ruby": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "Matlab": "0Y 8M",
+        "Python": "0Y 8M",
+        "Ruby": "0Y 8M"
+      },
+      "Results": {
+        "Matlab": "7/10",
+        "Python": "10/10",
+        "Ruby": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "Matlab": "4Y 4M",
+        "Python": "4Y 4M",
+        "Ruby": "4Y 4M"
+      },
+      "Results": {
+        "Matlab": "9/10",
+        "Python": "10/10",
+        "Ruby": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "Matlab": "3Y 3M",
+        "Python": "3Y 3M",
+        "Ruby": "3Y 3M"
+      },
+      "Results": {
+        "Matlab": "7/10",
+        "Python": "10/10",
+        "Ruby": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "desktop": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "Linux": "3Y 2M",
+        "Network": "3Y 2M",
+        "Tropologies": "3Y 2M"
+      },
+      "Results": {
+        "Linux": "7/10",
+        "Network": "9/10",
+        "Tropologies": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "Linux": "1Y 2M",
+        "Network": "1Y 2M",
+        "Tropologies": "1Y 2M"
+      },
+      "Results": {
+        "Linux": "8/10",
+        "Network": "8/10",
+        "Tropologies": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "Linux": "0Y 6M",
+        "Network": "0Y 6M",
+        "Tropologies": "0Y 6M"
+      },
+      "Results": {
+        "Linux": "7/10",
+        "Network": "7/10",
+        "Tropologies": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "Linux": "2Y 6M",
+        "Network": "2Y 6M",
+        "Tropologies": "2Y 6M"
+      },
+      "Results": {
+        "Linux": "10/10",
+        "Network": "6/10",
+        "Tropologies": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "Linux": "1Y 0M",
+        "Network": "1Y 0M",
+        "Tropologies": "1Y 0M"
+      },
+      "Results": {
+        "Linux": "8/10",
+        "Network": "7/10",
+        "Tropologies": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "Linux": "5Y 1M",
+        "Network": "5Y 1M",
+        "Tropologies": "5Y 1M"
+      },
+      "Results": {
+        "Linux": "7/10",
+        "Network": "8/10",
+        "Tropologies": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "Linux": "2Y 4M",
+        "Network": "2Y 4M",
+        "Tropologies": "2Y 4M"
+      },
+      "Results": {
+        "Linux": "9/10",
+        "Network": "8/10",
+        "Tropologies": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "Linux": "0Y 8M",
+        "Network": "0Y 8M",
+        "Tropologies": "0Y 8M"
+      },
+      "Results": {
+        "Linux": "7/10",
+        "Network": "10/10",
+        "Tropologies": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "Linux": "4Y 4M",
+        "Network": "4Y 4M",
+        "Tropologies": "4Y 4M"
+      },
+      "Results": {
+        "Linux": "9/10",
+        "Network": "10/10",
+        "Tropologies": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "Linux": "3Y 3M",
+        "Network": "3Y 3M",
+        "Tropologies": "3Y 3M"
+      },
+      "Results": {
+        "Linux": "7/10",
+        "Network": "10/10",
+        "Tropologies": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "data_science": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "Python": "3Y 2M",
+        "Algorithms": "3Y 2M",
+        "Analysis": "3Y 2M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "9/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "Python": "1Y 2M",
+        "Algorithms": "1Y 2M",
+        "Analysis": "1Y 2M"
+      },
+      "Results": {
+        "Python": "8/10",
+        "Algorithms": "8/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "Python": "0Y 6M",
+        "Algorithms": "0Y 6M",
+        "Analysis": "0Y 6M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "7/10",
+        "Analysis": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "Python": "2Y 6M",
+        "Algorithms": "2Y 6M",
+        "Analysis": "2Y 6M"
+      },
+      "Results": {
+        "Python": "10/10",
+        "Algorithms": "6/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "Python": "1Y 0M",
+        "Algorithms": "1Y 0M",
+        "Analysis": "1Y 0M"
+      },
+      "Results": {
+        "Python": "8/10",
+        "Algorithms": "7/10",
+        "Analysis": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "Python": "5Y 1M",
+        "Algorithms": "5Y 1M",
+        "Analysis": "5Y 1M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "8/10",
+        "Analysis": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "Python": "2Y 4M",
+        "Algorithms": "2Y 4M",
+        "Analysis": "2Y 4M"
+      },
+      "Results": {
+        "Python": "9/10",
+        "Algorithms": "8/10",
+        "Analysis": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "Python": "0Y 8M",
+        "Algorithms": "0Y 8M",
+        "Analysis": "0Y 8M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "10/10",
+        "Analysis": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "Python": "4Y 4M",
+        "Algorithms": "4Y 4M",
+        "Analysis": "4Y 4M"
+      },
+      "Results": {
+        "Python": "9/10",
+        "Algorithms": "10/10",
+        "Analysis": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "Python": "3Y 3M",
+        "Algorithms": "3Y 3M",
+        "Analysis": "3Y 3M"
+      },
+      "Results": {
+        "Python": "7/10",
+        "Algorithms": "10/10",
+        "Analysis": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "network": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "AWS": "3Y 2M",
+        "WebApp": "3Y 2M",
+        "Portals": "3Y 2M"
+      },
+      "Results": {
+        "AWS": "7/10",
+        "WebApp": "9/10",
+        "Portals": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "AWS": "1Y 2M",
+        "WebApp": "1Y 2M",
+        "Portals": "1Y 2M"
+      },
+      "Results": {
+        "AWS": "8/10",
+        "WebApp": "8/10",
+        "Portals": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "AWS": "0Y 6M",
+        "WebApp": "0Y 6M",
+        "Portals": "0Y 6M"
+      },
+      "Results": {
+        "AWS": "7/10",
+        "WebApp": "7/10",
+        "Portals": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "AWS": "2Y 6M",
+        "WebApp": "2Y 6M",
+        "Portals": "2Y 6M"
+      },
+      "Results": {
+        "AWS": "10/10",
+        "WebApp": "6/10",
+        "Portals": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "AWS": "1Y 0M",
+        "WebApp": "1Y 0M",
+        "Portals": "1Y 0M"
+      },
+      "Results": {
+        "AWS": "8/10",
+        "WebApp": "7/10",
+        "Portals": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "AWS": "5Y 1M",
+        "WebApp": "5Y 1M",
+        "Portals": "5Y 1M"
+      },
+      "Results": {
+        "AWS": "7/10",
+        "WebApp": "8/10",
+        "Portals": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "AWS": "2Y 4M",
+        "WebApp": "2Y 4M",
+        "Portals": "2Y 4M"
+      },
+      "Results": {
+        "AWS": "9/10",
+        "WebApp": "8/10",
+        "Portals": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "AWS": "0Y 8M",
+        "WebApp": "0Y 8M",
+        "Portals": "0Y 8M"
+      },
+      "Results": {
+        "AWS": "7/10",
+        "WebApp": "10/10",
+        "Portals": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "AWS": "4Y 4M",
+        "WebApp": "4Y 4M",
+        "Portals": "4Y 4M"
+      },
+      "Results": {
+        "AWS": "9/10",
+        "WebApp": "10/10",
+        "Portals": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "AWS": "3Y 3M",
+        "WebApp": "3Y 3M",
+        "Portals": "3Y 3M"
+      },
+      "Results": {
+        "AWS": "7/10",
+        "WebApp": "10/10",
+        "Portals": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "frontend_qualifiers": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "HTML": "3Y 2M",
+        "CSS": "3Y 2M",
+        "JS": "3Y 2M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "9/10",
+        "JS": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "HTML": "1Y 2M",
+        "CSS": "1Y 2M",
+        "JS": "1Y 2M"
+      },
+      "Results": {
+        "HTML": "8/10",
+        "CSS": "8/10",
+        "JS": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "HTML": "0Y 6M",
+        "CSS": "0Y 6M",
+        "JS": "0Y 6M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "7/10",
+        "JS": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "HTML": "2Y 6M",
+        "CSS": "2Y 6M",
+        "JS": "2Y 6M"
+      },
+      "Results": {
+        "HTML": "10/10",
+        "CSS": "6/10",
+        "JS": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "HTML": "1Y 0M",
+        "CSS": "1Y 0M",
+        "JS": "1Y 0M"
+      },
+      "Results": {
+        "HTML": "8/10",
+        "CSS": "7/10",
+        "JS": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "HTML": "5Y 1M",
+        "CSS": "5Y 1M",
+        "JS": "5Y 1M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "8/10",
+        "JS": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "HTML": "2Y 4M",
+        "CSS": "2Y 4M",
+        "JS": "2Y 4M"
+      },
+      "Results": {
+        "HTML": "9/10",
+        "CSS": "8/10",
+        "JS": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "HTML": "0Y 8M",
+        "CSS": "0Y 8M",
+        "JS": "0Y 8M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "10/10",
+        "JS": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "HTML": "4Y 4M",
+        "CSS": "4Y 4M",
+        "JS": "4Y 4M"
+      },
+      "Results": {
+        "HTML": "9/10",
+        "CSS": "10/10",
+        "JS": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "HTML": "3Y 3M",
+        "CSS": "3Y 3M",
+        "JS": "3Y 3M"
+      },
+      "Results": {
+        "HTML": "7/10",
+        "CSS": "10/10",
+        "JS": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "backend_qualifiers": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "JAVA": "3Y 2M",
+        "PHP": "3Y 2M",
+        "MySQL": "3Y 2M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "9/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "JAVA": "1Y 2M",
+        "PHP": "1Y 2M",
+        "MySQL": "1Y 2M"
+      },
+      "Results": {
+        "JAVA": "8/10",
+        "PHP": "8/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "JAVA": "0Y 6M",
+        "PHP": "0Y 6M",
+        "MySQL": "0Y 6M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "7/10",
+        "MySQL": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "JAVA": "2Y 6M",
+        "PHP": "2Y 6M",
+        "MySQL": "2Y 6M"
+      },
+      "Results": {
+        "JAVA": "10/10",
+        "PHP": "6/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "JAVA": "1Y 0M",
+        "PHP": "1Y 0M",
+        "MySQL": "1Y 0M"
+      },
+      "Results": {
+        "JAVA": "8/10",
+        "PHP": "7/10",
+        "MySQL": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "JAVA": "5Y 1M",
+        "PHP": "5Y 1M",
+        "MySQL": "5Y 1M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "8/10",
+        "MySQL": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "JAVA": "2Y 4M",
+        "PHP": "2Y 4M",
+        "MySQL": "2Y 4M"
+      },
+      "Results": {
+        "JAVA": "9/10",
+        "PHP": "8/10",
+        "MySQL": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "JAVA": "0Y 8M",
+        "PHP": "0Y 8M",
+        "MySQL": "0Y 8M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "10/10",
+        "MySQL": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "JAVA": "4Y 4M",
+        "PHP": "4Y 4M",
+        "MySQL": "4Y 4M"
+      },
+      "Results": {
+        "JAVA": "9/10",
+        "PHP": "10/10",
+        "MySQL": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "JAVA": "3Y 3M",
+        "PHP": "3Y 3M",
+        "MySQL": "3Y 3M"
+      },
+      "Results": {
+        "JAVA": "7/10",
+        "PHP": "10/10",
+        "MySQL": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "embedded_systems": [
+    {
+      "id": 1,
+      "Name": "Kushal Rao",
+      "Experience": {
+        "C_Objective": "3Y 2M",
+        "CPP": "3Y 2M",
+        "Linux": "3Y 2M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "9/10",
+        "Linux": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 2,
+      "Name": "Lata Aurora",
+      "Experience": {
+        "C_Objective": "1Y 2M",
+        "CPP": "1Y 2M",
+        "Linux": "1Y 2M"
+      },
+      "Results": {
+        "C_Objective": "8/10",
+        "CPP": "8/10",
+        "Linux": "6/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 3,
+      "Name": "Tanay Agarwal",
+      "Experience": {
+        "C_Objective": "0Y 6M",
+        "CPP": "0Y 6M",
+        "Linux": "0Y 6M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "7/10",
+        "Linux": "8/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 4,
+      "Name": "Yogesh Rao",
+      "Experience": {
+        "C_Objective": "2Y 6M",
+        "CPP": "2Y 6M",
+        "Linux": "2Y 6M"
+      },
+      "Results": {
+        "C_Objective": "10/10",
+        "CPP": "6/10",
+        "Linux": "6/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 5,
+      "Name": "Sunita Sankar",
+      "Experience": {
+        "C_Objective": "1Y 0M",
+        "CPP": "1Y 0M",
+        "Linux": "1Y 0M"
+      },
+      "Results": {
+        "C_Objective": "8/10",
+        "CPP": "7/10",
+        "Linux": "7/10"
+      },
+      "Salary": "-NIL-"
+    },
+    {
+      "id": 6,
+      "Name": "Arun Thaman",
+      "Experience": {
+        "C_Objective": "5Y 1M",
+        "CPP": "5Y 1M",
+        "Linux": "5Y 1M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "8/10",
+        "Linux": "6/10"
+      },
+      "Salary": "3.6LPA"
+    },
+    {
+      "id": 7,
+      "Name": "Jawahar Sanghvi",
+      "Experience": {
+        "C_Objective": "2Y 4M",
+        "CPP": "2Y 4M",
+        "Linux": "2Y 4M"
+      },
+      "Results": {
+        "C_Objective": "9/10",
+        "CPP": "8/10",
+        "Linux": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 8,
+      "Name": "Satishwar Chaudhry",
+      "Experience": {
+        "C_Objective": "0Y 8M",
+        "CPP": "0Y 8M",
+        "Linux": "0Y 8M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "10/10",
+        "Linux": "7/10"
+      },
+      "Salary": "1.2LPA"
+    },
+    {
+      "id": 9,
+      "Name": "Rita Krishna Murthy",
+      "Experience": {
+        "C_Objective": "4Y 4M",
+        "CPP": "4Y 4M",
+        "Linux": "4Y 4M"
+      },
+      "Results": {
+        "C_Objective": "9/10",
+        "CPP": "10/10",
+        "Linux": "9/10"
+      },
+      "Salary": "2.4LPA"
+    },
+    {
+      "id": 10,
+      "Name": "Naseer Mittal",
+      "Experience": {
+        "C_Objective": "3Y 3M",
+        "CPP": "3Y 3M",
+        "Linux": "3Y 3M"
+      },
+      "Results": {
+        "C_Objective": "7/10",
+        "CPP": "10/10",
+        "Linux": "9/10"
+      },
+      "Salary": "-NIL-"
+    }
+  ],
+  "employee": [
+    {
+      "id": 2,
+      "name": "Suraj Bhai Sane",
+      "designation": "Python Developer",
+      "company": "Cisco",
+      "location": "Bangalore"
+    },
+    {
+      "id": 3,
+      "name": "Aditi Bhatti",
+      "designation": "Database Admin",
+      "company": "J K L Industries",
+      "location": "Kerala"
+    },
+    {
+      "id": 4,
+      "name": "Tejaswani Ehsaan Rama",
+      "designation": "HR Recruiter",
+      "company": "E F G",
+      "location": "Delhi"
+    },
+    {
+      "id": 5,
+      "name": "Suraj Bhai Sane",
+      "designation": "Python Developer",
+      "company": "Cisco",
+      "location": "Bangalore"
+    },
+    {
+      "id": 6,
+      "name": "Aditi Bhatti",
+      "designation": "Database Admin",
+      "company": "J K L Industries",
+      "location": "Chennai"
+    },
+    {
+      "id": 7,
+      "name": "Tejaswani Ehsaan Rama",
+      "designation": "HR Recruiter",
+      "company": "E F G",
+      "location": "Kerala"
+    },
+    {
+      "id": 8,
+      "name": "Suraj Bhai Sane",
+      "designation": "Python Developer",
+      "company": "Cisco",
+      "location": "Bangalore"
+    },
+    {
+      "id": 9,
+      "name": "Aditi Bhatti",
+      "designation": "Database Admin",
+      "company": "J K L Industries",
+      "location": "Chennai"
+    },
+    {
+      "id": 10,
+      "name": "Tejaswani Ehsaan Rama",
+      "designation": "HR Recruiter",
+      "company": "E F G",
+      "location": "Kerala"
+    }
+  ]
+}

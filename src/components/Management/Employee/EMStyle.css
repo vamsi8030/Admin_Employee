@@ -1,0 +1,103 @@
+.bar{
+    margin: 0;
+    padding: 0;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #111;
+}
+.like{
+    display: block;
+    position: relative;
+    font-size: 25px;
+    margin: 0 5px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+    transition: .4s linear;
+    color: #fc6e22;
+    box-shadow: 2px 2px 2px #fc6e22;
+}
+.like:hover .fa{
+    animation: text-pop-up-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+@keyframes text-pop-up-top{
+    0%{
+        transform: translateY(0);
+        transform-origin: 50% 50%;
+    }
+    100%{
+        transform: translateY(-10px);
+        transform-origin: 50% 50%;
+    }
+}
+.crosscard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #009688;
+}
+.cardcontainer{
+    position: relative;
+    width: 1100px;
+    height: 400px;
+}
+.cardcontainer .card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) ;
+    width: 300px;
+    height: 400px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 25px 25px 100px rgba(0,0,0,0.2);
+    z-index: calc(-1*var(--i));
+    transition: 0.5s;
+}
+.cardcontainer:hover .card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+    opacity: 1;
+    box-shadow: 0 25px 50px rgba(0,0,0,0.2);
+    transform: translate(calc(-50% + calc(350px * var(--i))),-50%) rotate(0deg) skew(0deg,0deg);
+}
+.cardcontainer .card .content{
+    color: #444;
+    opacity: 0;
+    transition: 0.5s;
+    transform: translateY(50px);
+    padding: 25px;
+    text-align: center;
+}
+.cardcontainer:hover .card .content{
+    opacity: 1;
+    transform: translateY(0px);
+}
+.dance{
+    font-size: 13px;
+    line-height: 0.8;
+    background-image: url(./dance.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-weight: bold;
+    filter: brightness(10%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.my-custom-scrollbar{
+    position: relative;
+    height: 511px;
+    overflow: auto;
+}
+.table-wrapper-scroll-y{
+    display: block;
+}
